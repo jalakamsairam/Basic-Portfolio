@@ -112,8 +112,26 @@ body{
   line-height: 150%;
   background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
   color:#777777;
+}
 
+h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
 
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
 }
 
 .box-set p {
@@ -151,16 +169,16 @@ footer {
   bottom: 0;
     height: 100px;
     width: 110%;*/
-    clear: both;
-background-color:#666666;
-border-top:10px; 
-border-bottom: 0px;
-border-left:0px;
-border-right:0px;
-border-style: solid;
-border-color: #4fa9a4;
-bottom: 0;
-margin-top:20px;
+  clear: both;
+  background-color:#666666;
+  border-top:10px; 
+  border-bottom: 0px;
+  border-left:0px;
+  border-right:0px;
+  border-style: solid;
+  border-color: #4fa9a4;
+  bottom: 0;
+  margin-top:20px;
 }
 
 #footer-div{
