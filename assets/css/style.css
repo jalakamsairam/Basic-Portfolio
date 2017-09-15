@@ -116,7 +116,11 @@ body{
 
 }
 
-.box-set p{
+.box-set p {
+    color: #fff;
+    text-align: center;
+    margin-top: 70%;
+    background-color: #4aaaa5;
 
 }
 
@@ -220,6 +224,7 @@ border-style: none;
 .box-set {
   position: relative;
   height: 400px;
+  margin-left: 10%
   
 
 }
@@ -241,16 +246,21 @@ border-style: none;
 }
 
 .box-2 {
-  
+  top: -147px;
+  left: 381px;
   background: url(../images/box2.jpg);
 }
 
 .box-3 {
-  background: url(../images/box3.jpg);  
-  clear:both;
+    top: -121px;
+    left: -1px;
+    background: url(../images/box3.jpg);  
+    clear:both;
 }
 
 .box-4 {
+    top: -292px;
+    left: 379px;
    background: url(../images/box4.jpg);
 }
 
